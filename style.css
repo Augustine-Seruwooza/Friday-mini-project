@@ -1,0 +1,43 @@
+.webpage{
+	width: 800px;
+	height: 0 auto;
+	margin: 0 auto;
+	background-color: black;
+}
+body{
+	width: 800px;
+	height: auto;
+	height: auto;
+}
+
+fieldset{
+	border: 1px solid chocolate;
+	width: 500px;
+	background-image: url(rat.jpg);
+	background-position: center;
+	border-radius: 10px;
+	align-items: center;
+}
+label{
+	width: 300px;
+}
+input{
+	width: 500px;
+	height: 30px;
+}
+button{
+	color: black;
+	background-color: tomato;
+	border: 1px;
+	border-radius: 5px;
+	height: 30px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+}
+div{
+	padding: 10px;
+	text-align: center;
+}
